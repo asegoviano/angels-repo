@@ -1,0 +1,25 @@
+# This is the default ansible 'hosts' file.
+#
+# It should live in /etc/ansible/hosts
+#
+#   - Comments begin with the '#' character
+#   - Blank lines are ignored
+#   - Groups of hosts are delimited by [header] elements
+#   - You can enter hostnames or ip addresses
+#   - A hostname/IP can be a member of multiple groups
+# You need only a [webservers] and [elkservers] group.
+
+# List the IP Addresses of your webservers
+# You should have at least 2 IP addresses
+
+[webservers]
+#Web server 1
+10.0.0.5 ansible_python_interpreter=/usr/bin/python3
+#Web Server 2
+10.0.0.6 ansible_python_interpreter=/usr/bin/python3
+#Web Server 3
+10.0.0.7 ansible_python_interpreter=/usr/bin/python3
+
+#Elk Server
+[elk]
+10.1.0.4 ansible_python_interpreter=/usr/bin/python3
