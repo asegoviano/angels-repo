@@ -6,13 +6,10 @@ The purpose of Project 2 was incorporate the different skills learned up to this
 2.	Find vulnerabilities/exploits to gain access to the sensitive data stored in the WordPress server
 3.	Using Wireshark analyze and identify maliscous/suspicious activity on the network.
 
-##### [Offensive Final Presentation](https://docs.google.com/presentation/d/1aRD6HB3ZYJU_wTdlGpNOthTL7h1OUp_UZRt6MUtxF00/edit?usp=sharing)
-    * subitem
-##### [Blue Team Summary of Operations](https://docs.google.com/document/d/1icc_157q9FzQn3pI10Lnen55fk3Y4lHVIAbdlJQbLkk/edit?usp=sharing)
-    * subitem
-##### [Red Team Summary of Operations](https://docs.google.com/document/d/1YFoC1JFd_XLAaEEdCkICSO9LpEQ9QY-0m5JxPqNG9u8/edit?usp=sharing)
-    * subitem
-##### [Network Analysis](https://docs.google.com/document/d/1E4kA9mWDyfQQt10aqM9eT2iE1FPukXpHpzD8Z2eyOs8/edit?usp=sharing)
+###### [Offensive Final Presentation](https://docs.google.com/presentation/d/1aRD6HB3ZYJU_wTdlGpNOthTL7h1OUp_UZRt6MUtxF00/edit?usp=sharing)
+###### [Blue Team Summary of Operations](https://docs.google.com/document/d/1icc_157q9FzQn3pI10Lnen55fk3Y4lHVIAbdlJQbLkk/edit?usp=sharing)
+###### [Red Team Summary of Operations](https://docs.google.com/document/d/1YFoC1JFd_XLAaEEdCkICSO9LpEQ9QY-0m5JxPqNG9u8/edit?usp=sharing)
+###### [Network Analysis](https://docs.google.com/document/d/1E4kA9mWDyfQQt10aqM9eT2iE1FPukXpHpzD8Z2eyOs8/edit?usp=sharing)
 
 
 
