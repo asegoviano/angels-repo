@@ -2,7 +2,6 @@
 
 ## Final Project
 The purpose of Project 2 was incorporate the different skills learned up to this point as a SOC Analyst and Pentester.
-Objectives:
 1.	Implement alarms and thresholds using Kibana Elasticsearch.
 2.	Find vulnerabilities/exploits to gain access to the sensitive data stored in the WordPress server
 3.	Using Wireshark analyze and identify unusual/suspicious activity on the network.
