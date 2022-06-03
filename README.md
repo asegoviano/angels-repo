@@ -4,7 +4,7 @@
 The purpose of Project 2 was incorporate the different skills learned up to this point as a SOC Analyst and Pentester.
 1.	Implement alarms and thresholds using Kibana Elasticsearch.
 2.	Find vulnerabilities/exploits to gain access to the sensitive data stored in the WordPress server
-3.	Using Wireshark analyze and identify unusual/suspicious activity on the network.
+3.	Using Wireshark analyze and identify maliscous/suspicious activity on the network.
 
 ##### [Offensive Final Presentation](https://docs.google.com/presentation/d/1aRD6HB3ZYJU_wTdlGpNOthTL7h1OUp_UZRt6MUtxF00/edit?usp=sharing)
 ##### [Blue Team Summary of Operations](https://docs.google.com/document/d/1icc_157q9FzQn3pI10Lnen55fk3Y4lHVIAbdlJQbLkk/edit?usp=sharing)
